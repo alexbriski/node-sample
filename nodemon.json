@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW" : "admin",
+        "PORT" : "3000",
+        "SERVER_URL" : "http://localhost:3000/",
+        "JWT_KEY": "secret"
+    }
+}
